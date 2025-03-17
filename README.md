@@ -36,4 +36,4 @@ This project is a fully custom-built WordPress website designed and developed to
 
 ---
 
-**Check out more of my projects on my [GitHub Profile])!**
+**Check out more of my projects on my [GitHub Profile]!(https://github.com/UmerDev695)
