@@ -3,7 +3,7 @@ A fully custom WordPress website developed with tailored design and performance 
 # Custom WordPress Website – [Live Website](https://www.seattleluxuryhomesllc.com/ )
 
 ## Overview
-This project is a fully custom-built WordPress website designed and developed to provide a unique, responsive, and performance-optimized experience for [Client/Business Name]. The website focuses on clean UI/UX design, fast loading times, and SEO best practices.
+This project is a fully custom-built WordPress website designed and developed to provide a unique, responsive, and performance-optimized experience for seattleluxuryhomesllc. The website focuses on clean UI/UX design, fast loading times, and SEO best practices.
 
 ## Key Features
 - Fully custom WordPress theme development
